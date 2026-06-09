@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there👋, I'm Lasyapriya
 
-<!--
-**GANDLALASYAPRIYA/GANDLALASYAPRIYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+🎓 I am a second-year Computer Science and Engineering student at RGUKT Basar.
 
-Here are some ideas to get you started:
+💻 I am passionate about software development, problem-solving, and open-source contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy learning new technologies and strengthening my technical skills through projects and coding practice.
+
+Skills:
+Languages
+- C
+- Java
+- JavaScript
+- SQL
+Web Technologies
+- HTML
+- CSS
+- JavaScript
+Database
+- MySQL
+Tools
+- Git
+- GitHub (Learning)
+- VS Code
+
+Current Focus
+🌱 Currently focusing on:
+
+- Improving problem-solving skills
+- Learning software development concepts
+- Exploring open-source projects
+- Contributing to the developer community
+
+⭐ Always eager to learn, contribute, and grow through technology.
