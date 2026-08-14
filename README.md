@@ -1,7 +1,7 @@
 Hi there👋, I'm Lasyapriya
 
 About Me:
-🎓 I am a second-year Computer Science and Engineering student at RGUKT Basar.
+🎓 I am a Third-year Computer Science and Engineering student at RGUKT Basar.
 
 💻 I am passionate about software development, problem-solving, and open-source contributions.
 
